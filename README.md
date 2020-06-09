@@ -12,7 +12,7 @@
 >  [BOJ] 2661. 좋은수열 |  [[문제링크](https://www.acmicpc.net/problem/2661)] ||    
 >  [BOJ] 2352. 반도체 설계| [[문제링크](https://www.acmicpc.net/problem/2352)] ||    
 >  [BOJ] 15898. 피아 뭐시깽이| [[문제링크](https://www.acmicpc.net/problem/15898)] ||       
-   
+   <br><br>
    
    
    
