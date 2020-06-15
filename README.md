@@ -3,7 +3,9 @@
 ### 6월 3주차 (6/15~21)
 | 문제 | 출처 | 코드 | 비고 |
  |---|---|---|---|
-  [PRO] N진수 표현  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/17687)] | [[코드링크](https://github.com/catch4/Doho/blob/master/3%EB%B2%88%EC%A7%B8/%5BPRO%5D%20N%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.cpp)] | solved.   
+  [PRO] N진수 표현  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/17687)] | [[코드링크](https://github.com/catch4/Doho/blob/master/3%EB%B2%88%EC%A7%B8/%5BPRO%5D%20N%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.cpp)] | solved.
+<br>   
+
 ### 6월 2주차 (6/8~14)
 
  | 문제 | 출처 | 코드 | 비고 |
