@@ -10,7 +10,7 @@
  [BOJ] 16234. 인구 이동  | [[문제링크](https://www.acmicpc.net/problem/16234)] |  | :heavy_check_mark:
  [BOJ] 16398. 행성 연결  | [[문제링크](https://www.acmicpc.net/problem/16398)] |  | :heavy_check_mark:
  [BOJ] 14890. 경사로  | [[문제링크](https://www.acmicpc.net/problem/14890)] |  | :heavy_check_mark:
- [BOJ] 1328. 고층 빌딩  | [[문제링크](https://www.acmicpc.net/problem/1328)] |  | :book:
+ [BOJ] 1328. 고층 빌딩  | [[문제링크](https://www.acmicpc.net/problem/1328)] |  | :x:
 ### 4회차
 | 문제 | 출처 | 코드 | 비고 |
  |---|---|---|---|
