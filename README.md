@@ -4,13 +4,13 @@
 ### 5회차
 | 문제 | 출처 | 코드 | 비고 |
  |---|---|---|---|
-  [PRO] 디스크 컨트롤러  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/42627)] | | 
- [BOJ] 2110. 공유기 설치  | [[문제링크](https://www.acmicpc.net/problem/2110)] | ] | 
- [BOJ] 14502. 연구소  | [[문제링크](https://www.acmicpc.net/problem/14502)] |  | :heavy_check_mark:
- [BOJ] 16234. 인구 이동  | [[문제링크](https://www.acmicpc.net/problem/16234)] |  | :heavy_check_mark:
- [BOJ] 16398. 행성 연결  | [[문제링크](https://www.acmicpc.net/problem/16398)] |  | :heavy_check_mark:
- [BOJ] 14890. 경사로  | [[문제링크](https://www.acmicpc.net/problem/14890)] |  | :heavy_check_mark:
- [BOJ] 1328. 고층 빌딩  | [[문제링크](https://www.acmicpc.net/problem/1328)] |  | :x:
+  [PRO] 디스크 컨트롤러  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/42627)] |[[코드링크](https://github.com/catch4/Doho/blob/master/5%EB%B2%88%EC%A7%B8/%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.cpp)]| :heavy_check_mark:
+ [BOJ] 2110. 공유기 설치  | [[문제링크](https://www.acmicpc.net/problem/2110)] |[[코드링크](https://github.com/catch4/Doho/blob/master/5%EB%B2%88%EC%A7%B8/2110-2.cpp)]| :heavy_check_mark:
+ [BOJ] 14502. 연구소  | [[문제링크](https://www.acmicpc.net/problem/14502)] |[[코드링크](https://github.com/catch4/Doho/blob/master/5%EB%B2%88%EC%A7%B8/14502.cpp)]| :heavy_check_mark:
+ [BOJ] 16234. 인구 이동  | [[문제링크](https://www.acmicpc.net/problem/16234)] |[[코드링크](https://github.com/catch4/Doho/blob/master/5%EB%B2%88%EC%A7%B8/16234.cpp)]| :heavy_check_mark:
+ [BOJ] 16398. 행성 연결  | [[문제링크](https://www.acmicpc.net/problem/16398)] |[[코드링크](https://github.com/catch4/Doho/blob/master/5%EB%B2%88%EC%A7%B8/16398.cpp)]| :heavy_check_mark:
+ [BOJ] 14890. 경사로  | [[문제링크](https://www.acmicpc.net/problem/14890)] | [[코드링크](https://github.com/catch4/Doho/blob/master/5%EB%B2%88%EC%A7%B8/14890.cpp)] | :heavy_check_mark:
+ [BOJ] 1328. 고층 빌딩  | [[문제링크](https://www.acmicpc.net/problem/1328)] |[[코드링크](https://github.com/catch4/Doho/blob/master/5%EB%B2%88%EC%A7%B8/1328.cpp)] | :x:
 ### 4회차
 | 문제 | 출처 | 코드 | 비고 |
  |---|---|---|---|
