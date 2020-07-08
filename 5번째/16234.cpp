@@ -1,14 +1,14 @@
 /*
-	[¹éÁØ] 16234 ÀÎ±¸ ÀÌµ¿
-		¹®Á¦ ÃâÃ³ : https://www.acmicpc.net/problem/16234
-		Ç®ÀÌ ÀÏÀÚ : 2020.07.02.
+	[ë°±ì¤€] 16234 ì¸êµ¬ ì´ë™
+		ë¬¸ì œ ì¶œì²˜ : https://www.acmicpc.net/problem/16234
+		í’€ì´ ì¼ìž : 2020.07.02.
 
-	[Ç®ÀÌ ¹æ¹ý] Disjoint set
-		1. bfs¸¦ ÀÌ¿ëÇØ ÀÎÁ¢ÇÑ Ä­(»óÇÏÁÂ¿ì)ÀÌ ¿ÀÇÂ °¡´ÉÇÑÁö Ã¼Å©ÇÑ´Ù.
-		2. Ã¼Å© °á°ú ¿ÀÇÂ °¡´ÉÇÏ´Ù¸é Å¥¿¡ ³Ö´Â´Ù. ÀÌ¶§ isUsed¸¦ ÀÌ¿ëÇØ ¹æ¹®ÇÑ Áö¿ªÀ» Ã¼Å©ÇÑ´Ù.
-		2-1. bfs while¹®À» µµ´Â µ¿¾È Å¥¿¡ Ãß°¡µÈ ³ëµåµéÀº °°Àº ÁýÇÕÀ¸·Î ºÐ·ùÇÑ´Ù.
-		2-2. ¸ðµç Áö¿ªÀ» ¹æ¹®ÇÒ ¶§ ±îÁö bfs¸¦ ¹Ýº¹ÇÑ´Ù. ÀÌ¶§ ÁýÇÕÀ» ÀÌ·ç´Â ¿ä¼Ò°¡ ¾øÀ» °æ¿ì ¹Ýº¹À» Á¾·áÇÑ´Ù.
-		3. °°Àº ÁýÇÕÀ¸·Î ºÐ·ùµÈ Áö¿ªµéÀÇ ÀÎ±¸¼ö Æò±ÕÀ» ±¸ÇÏ°í Àû¿ëÇÑ´Ù.
+	[í’€ì´ ë°©ë²•] BFS
+		1. bfsë¥¼ ì´ìš©í•´ ì¸ì ‘í•œ ì¹¸(ìƒí•˜ì¢Œìš°)ì´ ì˜¤í”ˆ ê°€ëŠ¥í•œì§€ ì²´í¬í•œë‹¤.
+		2. ì²´í¬ ê²°ê³¼ ì˜¤í”ˆ ê°€ëŠ¥í•˜ë‹¤ë©´ íì— ë„£ëŠ”ë‹¤. ì´ë•Œ isUsedë¥¼ ì´ìš©í•´ ë°©ë¬¸í•œ ì§€ì—­ì„ ì²´í¬í•œë‹¤.
+		2-1. bfs whileë¬¸ì„ ë„ëŠ” ë™ì•ˆ íì— ì¶”ê°€ëœ ë…¸ë“œë“¤ì€ ê°™ì€ ì§‘í•©ìœ¼ë¡œ ë¶„ë¥˜í•œë‹¤.
+		2-2. ëª¨ë“  ì§€ì—­ì„ ë°©ë¬¸í•  ë•Œ ê¹Œì§€ bfsë¥¼ ë°˜ë³µí•œë‹¤. ì´ë•Œ ì§‘í•©ì„ ì´ë£¨ëŠ” ìš”ì†Œê°€ ì—†ì„ ê²½ìš° ë°˜ë³µì„ ì¢…ë£Œí•œë‹¤.
+		3. ê°™ì€ ì§‘í•©ìœ¼ë¡œ ë¶„ë¥˜ëœ ì§€ì—­ë“¤ì˜ ì¸êµ¬ìˆ˜ í‰ê· ì„ êµ¬í•˜ê³  ì ìš©í•œë‹¤.
 */
 
 #include <iostream>
@@ -72,8 +72,8 @@ int main()
 						int newY = front.first + k.first;
 						int newX = front.second + k.second;
 
-						if (!checkPosition(population, front.first, front.second, newY, newX) || isUsed[newY][newX])	continue;	// 1¹ø : ±¹°æ °³¹æ °¡´É¿©ºÎ Ã¼Å©
-						// 2¹ø : ÁýÇÕ¿¡ Ãß°¡
+						if (!checkPosition(population, front.first, front.second, newY, newX) || isUsed[newY][newX])	continue;	// 1ë²ˆ : êµ­ê²½ ê°œë°© ê°€ëŠ¥ì—¬ë¶€ ì²´í¬
+						// 2ë²ˆ : ì§‘í•©ì— ì¶”ê°€
 						isUsed[newY][newX] = true;
 						queue.push({ newY,newX });
 						subGroup.push_back(&population[newY][newX]);
