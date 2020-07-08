@@ -1,6 +1,10 @@
 # CATCH 알고리즘 스터디 - 이동호
 :heavy_check_mark:: 혼자 풀이, :book: : 풀이 참고, :x: : 실패
 
+### 6회차 
+| 문제 | 출처 | 코드 | 비고 |
+|---|---|---|---|
+[PRO] 조이스틱  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/42860)] |[[코드링크](https://github.com/catch4/Doho/blob/master/6week/pro_42860_Joystick.cpp)]| :heavy_check_mark:
 ### 5회차
 | 문제 | 출처 | 코드 | 비고 |
  |---|---|---|---|
