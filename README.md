@@ -5,6 +5,11 @@
 | 문제 | 출처 | 코드 | 비고 |
 |---|---|---|---|
 [PRO] 조이스틱  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/42860)] |[[코드링크](https://github.com/catch4/Doho/blob/master/6week/pro_42860_Joystick.cpp)]| :heavy_check_mark:
+|[BOJ] 3020. 개똥벌레 |[[문제링크](https://www.acmicpc.net/problem/3020)]||:heavy_check_mark:|
+|[BOJ] 1806. 부분합 |[[문제링크](https://www.acmicpc.net/problem/1806)]||:heavy_check_mark:|
+|[BOJ] 10159. 저울 |[[문제링크](https://www.acmicpc.net/problem/10159)]||:x:|
+|[BOJ] 1029. 그림교환 |[[문제링크](https://www.acmicpc.net/problem/1029)]||:x:|
+|[BOJ] 6549. 히스토르갬에서 가장 큰 직사각형 |[[문제링크](https://www.acmicpc.net/problem/6459)]||:x:|
 ### 5회차
 | 문제 | 출처 | 코드 | 비고 |
  |---|---|---|---|
