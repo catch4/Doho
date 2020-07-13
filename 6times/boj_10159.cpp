@@ -1,19 +1,19 @@
 /*
-	[¹éÁØ] 10159 Àú¿ï
-		¹®Á¦ ÃâÃ³ : https://www.acmicpc.net/problem/10159
+	[ë°±ì¤€] 10159 ì €ìš¸
+		ë¬¸ì œ ì¶œì²˜ : https://www.acmicpc.net/problem/10159
 
-	[Ç®ÀÌ ¹æ¹ý]
-		1. ºñ±³ °á°ú¸¦ ¾Ë ¼ö ÀÖ´Â ±×·ìÀ» DEQUE·Î °ü¸®ÇÑ´Ù.
-		1-1. ¹°°Ç i´Â ÀÚ½Å°ú ºñ±³ °á°ú¸¦ ¾Ë ¼ö ÀÖ´Â ¹øÈ£µéÀ» setÀ¸·Î °ü¸®ÇÑ´Ù.
-		2. A B¸¦ ÀÔ·Â¹Þ¾ÒÀ» ¶§ VEC.back()ÀÌ AÀÎ ±×·ìÀÌ ÀÖ´ÂÁö È®ÀÎÇÑ´Ù. 
-			-> ÀÖ´Ù : VEC.push_back(B)
-			-> ¾ø´Ù : VEC.front()°¡ BÀÎ ±×·ìÀ» Ã£´Â´Ù.
-				-> ÀÖ´Ù : VEC.push_front(A)
-				-> ¾ø´Ù : VEC.push_back(A), VEC.push_back(B)
-		3. »õ·Î¿î °ªÀÌ Ãß°¡µÈ VECÀÇ ¸â¹öµé¿¡ »õ·Î¿î °ªÀÌ ON µÇ¾úÀ½À» ¾Ë¸°´Ù.
-		-> 1 4 , 1 7 ÀÏ ¶§ 2°¡Áö °æ¿ì·Î °¥·¡°¡ »¸¾î³ª°¡¾ßÇÏ±â ¶§¹®¿¡ À§ ¹æ¹ýÀº ¿ÇÁö ¾ÊÀ½.
+	[í’€ì´ ë°©ë²•] : ì‹¤íŒ¨
+		1. ë¹„êµ ê²°ê³¼ë¥¼ ì•Œ ìˆ˜ ìžˆëŠ” ê·¸ë£¹ì„ DEQUEë¡œ ê´€ë¦¬í•œë‹¤.
+		1-1. ë¬¼ê±´ iëŠ” ìžì‹ ê³¼ ë¹„êµ ê²°ê³¼ë¥¼ ì•Œ ìˆ˜ ìžˆëŠ” ë²ˆí˜¸ë“¤ì„ setìœ¼ë¡œ ê´€ë¦¬í•œë‹¤.
+		2. A Bë¥¼ ìž…ë ¥ë°›ì•˜ì„ ë•Œ VEC.back()ì´ Aì¸ ê·¸ë£¹ì´ ìžˆëŠ”ì§€ í™•ì¸í•œë‹¤. 
+			-> ìžˆë‹¤ : VEC.push_back(B)
+			-> ì—†ë‹¤ : VEC.front()ê°€ Bì¸ ê·¸ë£¹ì„ ì°¾ëŠ”ë‹¤.
+				-> ìžˆë‹¤ : VEC.push_front(A)
+				-> ì—†ë‹¤ : VEC.push_back(A), VEC.push_back(B)
+		3. ìƒˆë¡œìš´ ê°’ì´ ì¶”ê°€ëœ VECì˜ ë©¤ë²„ë“¤ì— ìƒˆë¡œìš´ ê°’ì´ ON ë˜ì—ˆìŒì„ ì•Œë¦°ë‹¤.
+		-> 1 4 , 1 7 ì¼ ë•Œ 2ê°€ì§€ ê²½ìš°ë¡œ ê°ˆëž˜ê°€ ë»—ì–´ë‚˜ê°€ì•¼í•˜ê¸° ë•Œë¬¸ì— ìœ„ ë°©ë²•ì€ ì˜³ì§€ ì•ŠìŒ.
 
-	[Ç®ÀÌ ¹æ¹ý] : ÇÃ·ÎÀÌµå ¿Í¼£ ¾Ë°í¸®Áò
+	[í’€ì´ ë°©ë²•] : í”Œë¡œì´ë“œ ì™€ìƒ¬ ì•Œê³ ë¦¬ì¦˜
 */
 
 #include <iostream>
