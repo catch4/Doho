@@ -5,7 +5,13 @@
 | 문제 | 출처 | 코드 | 비고 |
 |---|---|---|---|
 [PRO] 뉴스 클러스터링  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/17677)] |[[코드링크](https://github.com/catch4/Doho/blob/master/7times/pro_17677.cpp)]| :heavy_check_mark:
-
+|[PRO] 보석 쇼핑|[[문제링크](https://programmers.co.kr/learn/courses/30/lessons/67258)]|||
+|[BOJ] 16236. 아기 상어|[[문제링크](https://www.acmicpc.net/problem/16236)]|||
+|[BOJ] 2151. 거울 설치|[[문제링크](https://www.acmicpc.net/problem/2151)]|||
+|[BOJ] 1937. 욕심쟁이 판다|[[문제링크](https://www.acmicpc.net/problem/1937)]|||
+|[BOJ] 6209. 제자리 멀리뛰기|[[문제링크](https://www.acmicpc.net/problem/6209)]|||
+|[BOJ] 16681. 등산|[[문제링크](https://www.acmicpc.net/problem/16681)]|||
+|[BOJ] 3430. 용이 산다|[[문제링크](https://www.acmicpc.net/problem/3430)]|||
 ### 6회차 
 | 문제 | 출처 | 코드 | 비고 |
 |---|---|---|---|
@@ -14,7 +20,7 @@
 |[BOJ] 1806. 부분합 |[[문제링크](https://www.acmicpc.net/problem/1806)]|[[코드링크](https://github.com/catch4/Doho/blob/master/6times/boj_1806.cpp)]|:heavy_check_mark:|
 |[BOJ] 10159. 저울 |[[문제링크](https://www.acmicpc.net/problem/10159)]|[[코드링크](https://github.com/catch4/Doho/blob/master/6times/boj_10159.cpp)]|:book:|
 |[BOJ] 1029. 그림교환 |[[문제링크](https://www.acmicpc.net/problem/1029)]||:x:|
-|[BOJ] 6549. 히스토르갬에서 가장 큰 직사각형 |[[문제링크](https://www.acmicpc.net/problem/6459)]||:x:|
+|[BOJ] 6549. 히스토그램에서 가장 큰 직사각형 |[[문제링크](https://www.acmicpc.net/problem/6549)]||:x:|
 ### 5회차
 | 문제 | 출처 | 코드 | 비고 |
  |---|---|---|---|
