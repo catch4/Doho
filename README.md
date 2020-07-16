@@ -5,7 +5,7 @@
 | 문제 | 출처 | 코드 | 비고 |
 |---|---|---|---|
 [PRO] 뉴스 클러스터링  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/17677)] |[[코드링크](https://github.com/catch4/Doho/blob/master/7times/pro_17677.cpp)]| :heavy_check_mark:
-|[PRO] 보석 쇼핑|[[문제링크](https://programmers.co.kr/learn/courses/30/lessons/67258)]|||
+|[PRO] 보석 쇼핑|[[문제링크](https://programmers.co.kr/learn/courses/30/lessons/67258)]|[[코드링크](https://github.com/catch4/Doho/blob/master/7times/pro_67258.cpp)]|:book:|
 |[BOJ] 16236. 아기 상어|[[문제링크](https://www.acmicpc.net/problem/16236)]|||
 |[BOJ] 2151. 거울 설치|[[문제링크](https://www.acmicpc.net/problem/2151)]|||
 |[BOJ] 1937. 욕심쟁이 판다|[[문제링크](https://www.acmicpc.net/problem/1937)]|||
