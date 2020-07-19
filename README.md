@@ -6,21 +6,13 @@
 |---|---|---|---|
 [PRO] 뉴스 클러스터링  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/17677)] |[[코드링크](https://github.com/catch4/Doho/blob/master/7times/pro_17677.cpp)]| :heavy_check_mark:
 |[PRO] 보석 쇼핑|[[문제링크](https://programmers.co.kr/learn/courses/30/lessons/67258)]|[[코드링크](https://github.com/catch4/Doho/blob/master/7times/pro_67258.cpp)]|:book:|
-<<<<<<< HEAD
 |[BOJ] 16236. 아기 상어|[[문제링크](https://www.acmicpc.net/problem/16236)]|[[코드링크](https://github.com/catch4/Doho/blob/master/7times/boj_16236.cpp)]|:heavy_check_mark:|
 |[BOJ] 2151. 거울 설치|[[문제링크](https://www.acmicpc.net/problem/2151)]|[[코드링크](https://github.com/catch4/Doho/blob/master/7times/boj_2151.cpp)]|:book:|
 |[BOJ] 1937. 욕심쟁이 판다|[[문제링크](https://www.acmicpc.net/problem/1937)]|[[코드링크](https://github.com/catch4/Doho/blob/master/7times/boj_1937.cpp)]|:book:|
 |[BOJ] 6209. 제자리 멀리뛰기|[[문제링크](https://www.acmicpc.net/problem/6209)]|[[코드링크](https://github.com/catch4/Doho/blob/master/7times/boj_6209.cpp)]|:heavy_check_mark:|
 |[BOJ] 16681. 등산|[[문제링크](https://www.acmicpc.net/problem/16681)]|[[코드링크](https://github.com/catch4/Doho/blob/master/7times/boj_16681.cpp)]|:book:|
 |[BOJ] 3430. 용이 산다|[[문제링크](https://www.acmicpc.net/problem/3430)]|[[코드링크](https://github.com/catch4/Doho/blob/master/7times/boj_3430.cpp)]|:x:|
-=======
-|[BOJ] 16236. 아기 상어|[[문제링크](https://www.acmicpc.net/problem/16236)]|||
-|[BOJ] 2151. 거울 설치|[[문제링크](https://www.acmicpc.net/problem/2151)]|||
-|[BOJ] 1937. 욕심쟁이 판다|[[문제링크](https://www.acmicpc.net/problem/1937)]|||
-|[BOJ] 6209. 제자리 멀리뛰기|[[문제링크](https://www.acmicpc.net/problem/6209)]|||
-|[BOJ] 16681. 등산|[[문제링크](https://www.acmicpc.net/problem/16681)]|||
-|[BOJ] 3430. 용이 산다|[[문제링크](https://www.acmicpc.net/problem/3430)]|||
->>>>>>> e38d986f1b511b5644b112e60c12b9a9e75156ec
+
 ### 6회차 
 | 문제 | 출처 | 코드 | 비고 |
 |---|---|---|---|
