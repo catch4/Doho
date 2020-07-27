@@ -5,6 +5,13 @@
 | 문제 | 출처 | 코드 | 비고 |
 |---|---|---|---|
 [PRO] 땅따먹기  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/12913)] |[[코드링크](https://github.com/catch4/Doho/blob/master/8times/pro_12913.cpp)]| :heavy_check_mark:
+|[BOJ] 1956. 운동|[[문제링크](https://www.acmicpc.net/problem/1956)]|[[코드링크](https://github.com/catch4/Doho/blob/master/8times/boj_1956.cpp)]|:heavy_check_mark:|
+|[BOJ] 2014. 소수의 곱|[[문제링크](https://www.acmicpc.net/problem/2014)]|[[코드링크](https://github.com/catch4/Doho/blob/master/8times/boj_2014.cpp)]|:book:|
+|[BOJ] 2146. 다리 만들기|[[문제링크](https://www.acmicpc.net/problem/2146)]|[[코드링크](https://github.com/catch4/Doho/blob/master/8times/boj_2146.cpp)]|:heavy_check_mark:|
+|[BOJ] 2252. 줄 세우기|[[문제링크](https://www.acmicpc.net/problem/2252)]|[[코드링크](https://github.com/catch4/Doho/blob/master/8times/boj_2252.cpp)]|:book:|
+|[BOJ] 3980. 선발 명단|[[문제링크](https://www.acmicpc.net/problem/3980)]|[[코드링크](https://github.com/catch4/Doho/blob/master/8times/boj_3980.cpp)]|:heavy_check_mark:|
+|[BOJ] 9576. 책 나눠주기|[[문제링크](https://www.acmicpc.net/problem/9576)]|[[코드링크](https://github.com/catch4/Doho/blob/master/8times/boj_9576.cpp)]|:book:|
+|[PRO] 경주로 건설|[[문제링크](https://programmers.co.kr/learn/courses/30/lessons/67259)]|[[코드링크](https://github.com/catch4/Doho/blob/master/8times/pro_67259.cpp)]|:x:|
 
 ### 7회차
 | 문제 | 출처 | 코드 | 비고 |
