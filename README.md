@@ -1,6 +1,11 @@
 # CATCH 알고리즘 스터디 - 이동호
 :heavy_check_mark:: 혼자 풀이, :book: : 풀이 참고, :x: : 실패
 
+### 9회차
+| 문제 | 출처 | 코드 | 비고 |
+|---|---|---|---|
+[PRO] 키패드 누르기  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/67256)] |[[코드링크](https://github.com/catch4/Doho/blob/master/9times/pro_67256.cpp)]| :heavy_check_mark:
+
 ### 8회차
 | 문제 | 출처 | 코드 | 비고 |
 |---|---|---|---|
