@@ -8,7 +8,7 @@
 [BOJ] 6593. 상범 빌딩  | [[문제링크](https://www.acmicpc.net/problem/6593)] |[[코드링크](https://github.com/catch4/Doho/blob/master/9times/boj_6593.cpp)]| :heavy_check_mark:
 [BOJ] 2239. 스도쿠  | [[문제링크](https://www.acmicpc.net/problem/2239)] |[[코드링크](https://github.com/catch4/Doho/blob/master/9times/boj_2239.cpp)]| :heavy_check_mark:
 [BOJ] 1507. 궁금한 민호  | [[문제링크](https://www.acmicpc.net/problem/1507)] |[[코드링크](https://github.com/catch4/Doho/blob/master/9times/boj_1507.cpp)]| :heavy_check_mark:
-[BOJ] 17143. 낚시왕  | [[문제링크](https://www.acmicpc.net/problem/6593)] |[[코드링크](https://github.com/catch4/Doho/blob/master/9times/boj_6593.cpp)]| :heavy_check_mark:
+[BOJ] 17143. 낚시왕  | [[문제링크](https://www.acmicpc.net/problem/17143)] |[[코드링크](https://github.com/catch4/Doho/blob/master/9times/boj_17143.cpp)]| :heavy_check_mark:
 [BOJ] 2342. Dance Dance Revolution  | [[문제링크](https://www.acmicpc.net/problem/2342)] |[[코드링크](https://github.com/catch4/Doho/blob/master/9times/boj_2342.cpp)]| :book:
 [BOJ] 9202. Boggle  | [[문제링크](https://www.acmicpc.net/problem/9202)] |[[코드링크](https://github.com/catch4/Doho/blob/master/9times/boj_9202.cpp)]| :x:
 
