@@ -5,6 +5,7 @@
 	[풀이 방법]
 
 	[실패 과정]
+		1. BFS에서 방문한 위치는 재방문 X
 
 	[풀이 일자]
 */
@@ -50,6 +51,8 @@ int bfs(const std::vector<std::string>& board, const std::string str, std::pair<
 	{
 		auto front = queue.front();
 		queue.pop();
+		if (front.first.size() > 8)
+			continue;
 
 		if (dictionary.find(front.first) != dictionary.end())
 		{
@@ -71,6 +74,7 @@ int bfs(const std::vector<std::string>& board, const std::string str, std::pair<
 			if (trie.find(newString) == trie.end())
 				continue;
 			queue.push({ newString,{ newY,newX } });
+			isUsed[newY][newX] = true;
 		}
 	}
 
