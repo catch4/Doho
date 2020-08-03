@@ -1,6 +1,12 @@
 # CATCH 알고리즘 스터디 - 이동호
 :heavy_check_mark:: 혼자 풀이, :book: : 풀이 참고, :x: : 실패
 
+### 10회차
+| 문제 | 출처 | 코드 | 비고 |
+|---|---|---|---|
+[PRO] 입국 심사  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/43238)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/pro_43238.cpp)]| :heavy_check_mark:
+[BOJ] 1360. 되돌리기  | [[문제링크](https://www.acmicpc.net/problem/1360)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/boj_1360.cpp)]| 
+
 ### 9회차
 | 문제 | 출처 | 코드 | 비고 |
 |---|---|---|---|
