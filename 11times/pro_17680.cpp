@@ -23,7 +23,7 @@ int solution(int cacheSize, vector<string> cities) {
 	if (cacheSize == 0)
 		return 5 * cities.size();
 	deque<string> caches;
-	for (const auto& i : cities)
+	for (auto& i : cities)
 	{
 		transform(i.begin(), i.end(), i.begin(), [](unsigned char c) -> unsigned char {return toupper(c); });
 		if (isFind(caches, i))
