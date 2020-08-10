@@ -1,6 +1,18 @@
 # CATCH 알고리즘 스터디 - 이동호
 :heavy_check_mark:: 혼자 풀이, :book: : 풀이 참고, :x: : 실패
 
+### 11회차
+| 문제 | 출처 | 코드 | 비고 |
+|---|---|---|---|
+[PRO] [1차] 캐시  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/17680)] |[[코드링크](https://github.com/catch4/Doho/blob/master/11times/pro_17680.cpp)]| :heavy_check_mark:
+[PRO]   | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/43238)] |[[코드링크](https://github.com/catch4/Doho/blob/master/11times/pro_42579.cpp)]| :heavy_check_mark:
+[BOJ] 15999. 뒤집기  | [[문제링크](https://www.acmicpc.net/problem/15999)] |[[코드링크](https://github.com/catch4/Doho/blob/master/11times/boj_15999.cpp)]|
+[BOJ] 1342. 행운의 문자열  | [[문제링크](https://www.acmicpc.net/problem/1342)] |[[코드링크](https://github.com/catch4/Doho/blob/master/11times/boj_1342.cpp)]|
+[BOJ] 2931. 가스관  | [[문제링크](https://www.acmicpc.net/problem/2931)] |[[코드링크](https://github.com/catch4/Doho/blob/master/11times/boj_2931.cpp)]|
+[BOJ] 1509. 팰린드롬 분할  | [[문제링크](https://www.acmicpc.net/problem/1509)] |[[코드링크](https://github.com/catch4/Doho/blob/master/11times/boj_1509.cpp)]|
+[BOJ] 3015. 오아시스 재결합  | [[문제링크](https://www.acmicpc.net/problem/3015)] |[[코드링크](https://github.com/catch4/Doho/blob/master/11times/boj_3015.cpp)]|
+[BOJ] 7432. 디스크 트리  | [[문제링크](https://www.acmicpc.net/problem/7432)] |[[코드링크](https://github.com/catch4/Doho/blob/master/11times/boj_7432.cpp)]|
+
 ### 10회차
 | 문제 | 출처 | 코드 | 비고 |
 |---|---|---|---|
