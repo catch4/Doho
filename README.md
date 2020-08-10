@@ -5,7 +5,13 @@
 | 문제 | 출처 | 코드 | 비고 |
 |---|---|---|---|
 [PRO] 입국 심사  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/43238)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/pro_43238.cpp)]| :heavy_check_mark:
-[BOJ] 1360. 되돌리기  | [[문제링크](https://www.acmicpc.net/problem/1360)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/boj_1360.cpp)]| 
+[PRO] 베스트앨범  | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/43238)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/pro_42579.cpp)]| :heavy_check_mark:
+[BOJ] 1360. 되돌리기  | [[문제링크](https://www.acmicpc.net/problem/1360)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/boj_1360.cpp)]| :heavy_check_mark:
+[BOJ] 10830. 행렬 제곱  | [[문제링크](https://www.acmicpc.net/problem/1360)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/boj_10830.cpp)]| :book:
+[BOJ] 5052. 전화번호 목록  | [[문제링크](https://www.acmicpc.net/problem/1360)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/boj_5052.cpp)]| :book:
+[BOJ] 1167. 트리의 지름  | [[문제링크](https://www.acmicpc.net/problem/1360)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/boj_1167.cpp)]| :book:
+[BOJ] 2887. 행성 터널  | [[문제링크](https://www.acmicpc.net/problem/1360)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/boj_2887.cpp)]| :book:
+[BOJ] 1113. 수영장 만들기  | [[문제링크](https://www.acmicpc.net/problem/1360)] |[[코드링크](https://github.com/catch4/Doho/blob/master/10times/boj_1113.cpp)]| :x:
 
 ### 9회차
 | 문제 | 출처 | 코드 | 비고 |
